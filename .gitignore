@@ -5,3 +5,13 @@
 /resources/
 public/
 assets/jsconfig.json
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# VSCode (opcional)
+.vscode/
